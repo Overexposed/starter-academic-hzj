@@ -29,7 +29,7 @@ interests:
 education:
   courses:
   - course: Master of Science in Computer Science
-    institution: Massachusetts Institute of Technology
+    institution: University of Illinois at Urbana-Champaign(UIUC)
     year: 2021 - present
   - course: BSc in Artificial Intelligence
     institution: The Hong Kong University of Science and Technology
